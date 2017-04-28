@@ -35,6 +35,6 @@ Orientador: Prof. Msc. Edjalma Queiroz da Silva
 >
 > _Ps.: O usuário estará disponível para acesso até *26/05/2017*_
 
-## Cliente Mobile :iphone:
+### Cliente Mobile :iphone:
 
 [Acesso ao app Google play](https://play.google.com/store/apps/details?id=site.fabricionogueira.androidclient)
