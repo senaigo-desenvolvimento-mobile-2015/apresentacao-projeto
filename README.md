@@ -27,9 +27,9 @@ Orientador: Prof. Msc. Edjalma Queiroz da Silva
 
 Para acessar o cliente web, é necessário aceitar o certificado do serviço que foi auto assinado, então, primeiro acesse o endereço: [SSL Serviço](https://107.21.129.22/) Aceite o certificado e prossiga para o acesso ao cliente: [Acesso ao cliente Web](https://webapp.fabricionogueira.site/)
 ##### Exemplo Google Chrome
-![Chrome](https://github.com/senaigo-desenvolvimento-mobile-2015/apresentacao-projeto/blob/master/img/chrome.png =250x)
+![Chrome](https://github.com/senaigo-desenvolvimento-mobile-2015/apresentacao-projeto/blob/master/img/chrome.png | width=100)
 ##### Exemplo Firefox
-![Firefox](https://github.com/senaigo-desenvolvimento-mobile-2015/apresentacao-projeto/blob/master/img/firefox.png =250x)
+![Firefox](https://github.com/senaigo-desenvolvimento-mobile-2015/apresentacao-projeto/blob/master/img/firefox.png | width=100)
 
 ##### Atenção 
 Não se esqueça de aceitar o certificado!
