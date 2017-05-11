@@ -2,7 +2,7 @@
 
 **Orçamento WEB**
 
-Desenvolvimento de uma infra-estrutura integrada para geração de geração e controle de Orçamentos e Ordens de Serviços para centros automotivos
+Desenvolvimento de uma infra-estrutura de software para criação e controle de orçamentos e ordens de serviço para profissionais liberais e centros automotivos de pequeno e médio porte
 
 Autor: Fabricio Nogueira
 
